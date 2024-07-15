@@ -15,3 +15,4 @@ jobs:
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.MY_NETLIFY_TOKEN }}
           NETLIFY_DEPLOY_TO_PROD: true
+          NETLIFY_SITE_ID: dd9a2d45-ccf4-428d-9ab4-20f70c3ed13b
